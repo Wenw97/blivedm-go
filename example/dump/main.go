@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/Akegarasu/blivedm-go/client"
-	_ "github.com/Akegarasu/blivedm-go/utils"
+	"github.com/Wenw97/blivedm-go/client"
+	_ "github.com/Wenw97/blivedm-go/utils"
 	log "github.com/sirupsen/logrus"
 	"github.com/tidwall/gjson"
 )
