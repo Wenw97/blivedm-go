@@ -1,7 +1,7 @@
 package message
 
 import (
-	"github.com/Wenw97/blivedm-go/utils"
+	"github.com/Akegarasu/blivedm-go/utils"
 	log "github.com/sirupsen/logrus"
 	"github.com/tidwall/gjson"
 )

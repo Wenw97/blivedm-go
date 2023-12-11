@@ -1,4 +1,4 @@
-module github.com/Wenw97/blivedm-go
+module github.com/Akegarasu/blivedm-go
 
 go 1.16
 

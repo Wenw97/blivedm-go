@@ -9,8 +9,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Wenw97/blivedm-go/api"
-	"github.com/Wenw97/blivedm-go/packet"
+	"github.com/Akegarasu/blivedm-go/api"
+	"github.com/Akegarasu/blivedm-go/packet"
 	"github.com/gorilla/websocket"
 	log "github.com/sirupsen/logrus"
 )

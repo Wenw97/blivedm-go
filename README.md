@@ -4,7 +4,7 @@ bilibili 直播弹幕 golang 库
 
 ## 安装
 ```shell
-go get github.com/Wenw97/blivedm-go
+go get github.com/Akegarasu/blivedm-go
 ```
 
 ## 快速开始
@@ -24,9 +24,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/Wenw97/blivedm-go/client"
-	"github.com/Wenw97/blivedm-go/message"
-	_ "github.com/Wenw97/blivedm-go/utils"
+	"github.com/Akegarasu/blivedm-go/client"
+	"github.com/Akegarasu/blivedm-go/message"
+	_ "github.com/Akegarasu/blivedm-go/utils"
 	log "github.com/sirupsen/logrus"
 	"github.com/tidwall/gjson"
 )
